@@ -29,11 +29,11 @@ body {
     text-align: center;
     margin: 20px 0;
     font-size: 1.4rem;
-    color: hs1(218, 44%, 22%);
+    color: hsl(218, 44%, 22%);
 }
 
 .card > p {
     text-align: center;
     margin-bottom: 20px;
-    color: hs1(220, 15%, 55%);
+    color: hsl(220, 15%, 55%);
 }
